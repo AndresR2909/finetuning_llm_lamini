@@ -1,2 +1,6 @@
 .venv
 .powerml
+
+
+__pycache__
+*.bin
